@@ -1,0 +1,44 @@
+{
+    "cartes_mystere" : [
+        {
+            "label": "Bonus 75 sess, vos frères vous lèguent des points !",
+            "points": 10
+        },
+        {
+            "label": "Malus sexion d'assaut, vous êtes homophobes et les médias vous lachent.",
+            "points": -15
+        },
+        {
+            "label": "Simon le bg du discord débarque, grâce a ses talents de magiciens il fait apparaitre 10 points pour votre equipe !",
+            "points": 10
+        },
+        {
+            "label": "Coffee le hackeur a infecté la régie et réussi à vous ajouter 10 points !",
+            "points": 10
+        },
+        {
+            "label": "Pierre le belge vous lâche une prod enerver, mais elle est tellement lourde que vous n'arrivez pas à poser dessus ...",
+            "points": -15
+        },
+        {
+            "label": "Vous avez signez un contrat foireux avec Y&W ce qui ralenti votre progression dans le jeu.",
+            "points": -15
+        },
+        {
+            "label": "Vous avez signez un contrat foireux avec Y&W ce qui ralenti votre progression dans le jeu.",
+            "points": -15
+        },
+        {
+            "label": "Bubul arrive sur le plateau pour drip devant vous, et il ne repart pas les mains vide.",
+            "points": -15
+        },
+        {
+            "label": "STUV arrive des Pays Bas en vélo pour vous livrer des petits points tout chaud !",
+            "points": 10
+        },
+        {
+            "label": "AD vous envoi via steam le dernier cheatcode, qui vous rapporte des points !",
+            "points": 10
+        }
+    ]
+}

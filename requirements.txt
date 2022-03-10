@@ -1,0 +1,7 @@
+discord
+requests
+selenium
+wheel
+gunicorn
+PyNaCl
+spotipy

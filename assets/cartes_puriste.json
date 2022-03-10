@@ -1,0 +1,34 @@
+{
+    "cartes_puriste" : [
+        {
+            "label": "Sur quelle paire de chaussure Nekfeu brode-t-il le nom de son gang ?",
+            "answer": "cortez",
+            "points": 10
+        },
+        {
+            "label": "Donnez le membre manquant du 5 majeur : Nekfeu, Vidji, Kéroué, Heskis, et ?",
+            "answer": "Hunam",
+            "points": 5
+        },
+        {
+            "label": "De quelle ville vient le rappeur Khali ?",
+            "answer": "Bordeaux",
+            "points": 15
+        },
+        {
+            "label": "De quelle ville vient le rappeur Furax Barbarossa ?",
+            "answer": "Toulouse",
+            "points": 15
+        },
+        {
+            "label": "Quel est le nom du seul rappeur blanc de la sexion d'assaut ?",
+            "answer": "Maska",
+            "points": 15
+        },
+        {
+            "label": "Comment s'appel le frère de Lino ?",
+            "answer": "Calbo",
+            "points": 15
+        }
+    ]
+}
